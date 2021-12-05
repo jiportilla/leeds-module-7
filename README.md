@@ -43,7 +43,7 @@ Enjoy the course!
 	
 5. Change directory to the module 7 directory
 
-	`cd mod-7/`
+	`cd leeds-module-7/`
 6. Test your `docker` installation by running the following command:
 
 	`docker run hello-world`
@@ -55,7 +55,9 @@ Enjoy the course!
 	This message shows that your installation appears to be working correctly.
 	...
 	```
+	
 ###Hello World
+
 7. Next, we are going to run a `Busybox` container on our system and get a taste of the `docker run` command. To get started, let's run the following in our terminal:.
 
 	```
