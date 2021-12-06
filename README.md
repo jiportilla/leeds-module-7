@@ -161,16 +161,14 @@ Let's create an webapp image with the followig `Make` commands:
 
 where `XX.XXX.XXX.XXX` is the IP we used in the login step above and `PORT` is the port number provided in the `.env` file earlier.
 
-# Graph Databases
+## Graph Databases
 
 A graph database stores nodes and relationships instead of tables, or documents. Data is stored just like you might sketch ideas on a whiteboard. Your data is stored without restricting it to a pre-defined model, allowing a very flexible way of thinking about and using it.
 
 
 Open Python notebook in Watson Studio project
 
-<p align="center">
-  <img alt="Graph database" width="600" src="./public/graph.png">
-</p>
+![Graph Databases](./public/graph.png)
 
 [https://neo4j.com/developer/graph-database/](https://neo4j.com/developer/graph-database/)
 
