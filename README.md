@@ -128,7 +128,16 @@ Prune stopped containers with:
 `docker container prune`
 
 
-## Creating image
+## Docker Images
+
+We have looked at images before, but in this section we'll dive deeper into what Docker images are and build our own image! Lastly, we'll also use that image to run our application locally and finally deploy on AWS to share it with our friends! Excited? Great! Let's get started.
+
+Docker images are the basis of containers. In the previous example, we pulled the Busybox image from the registry and asked the Docker client to run a container based on that image. To see the list of images that are available locally, use the docker images command.
+
+`docker images`
+
+Let's create an webapp image with the followig `Make` commands:
+
 
 1. Make clean
 
