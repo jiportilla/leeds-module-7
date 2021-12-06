@@ -54,9 +54,10 @@ Enjoy the course!
 	Hello from Docker.
 	This message shows that your installation appears to be working correctly.
 	...
+	
 	```
 	
-###Hello World
+### Hello World
 
 7. Next, we are going to run a `Busybox` container on our system and get a taste of the `docker run` command. To get started, let's run the following in our terminal:.
 
@@ -168,7 +169,7 @@ A graph database stores nodes and relationships instead of tables, or documents.
 
 Open Python notebook in Watson Studio project
 
-![Graph Databases](./public/graph.png)
+![Graph Databases](./public-htmo/graph.png)
 
 [https://neo4j.com/developer/graph-database/](https://neo4j.com/developer/graph-database/)
 
