@@ -37,7 +37,7 @@ Enjoy the course!
 	`cd ivanp`
 	
 	
-4. Clone NLU repository from github
+4. Clone Module 7 repository from github
 
 	`git clone https://github.com/jiportilla/leeds-module-7.git`
 	
@@ -169,7 +169,7 @@ A graph database stores nodes and relationships instead of tables, or documents.
 
 Open Python notebook in Watson Studio project
 
-![Graph Databases](./public-htmo/graph.png)
+![Graph Databases](public-html/graph.png)
 
 [https://neo4j.com/developer/graph-database/](https://neo4j.com/developer/graph-database/)
 
