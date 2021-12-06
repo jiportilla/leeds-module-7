@@ -167,11 +167,19 @@ where `XX.XXX.XXX.XXX` is the IP we used in the login step above and `PORT` is t
 A graph database stores nodes and relationships instead of tables, or documents. Data is stored just like you might sketch ideas on a whiteboard. Your data is stored without restricting it to a pre-defined model, allowing a very flexible way of thinking about and using it.
 
 
-Open Python notebook in Watson Studio project
+
 
 ![Graph Databases](public-html/graph.png)
 
 [https://neo4j.com/developer/graph-database/](https://neo4j.com/developer/graph-database/)
+
+## Lab
+
+Open Python notebook in Watson Studio project. 
+
+1. How many students attend Leeds?
+2. How many posts were published by one student?
+3. How many posts with a Math topic?
 
 ## License
 
